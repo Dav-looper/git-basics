@@ -1,7 +1,11 @@
-Comandos aprendidos hoy:
+Comandos aprendidos en el día 1:
 -git init
 -git status
 -git add
 -git commit
 -git push
 
+Día 2:
+-Entiender qué cambió, cuándo y por qué en Git
+-Usar diff, log, checkout
+-Crear una estructura HTML semántica básica
