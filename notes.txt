@@ -9,3 +9,7 @@ Logros y aprendizajes del día 2:
 -Entiender qué cambió, cuándo y por qué en Git
 -Usar diff, log, checkout
 -Crear una estructura HTML semántica básica
+-Se siente natural el flujo basico (status, add, commit, push)
+-Se siente natural el comando "nano" para escribir y editar archivos y el comando "log"
+-Aun me confunden algunos como "branch", "checkout" y "show"
+-El html semantico en una empresa sirve para llevar el orden conceptual de las paginas
